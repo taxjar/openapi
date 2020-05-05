@@ -1,2 +1,2 @@
 # openapi
-OpenAPI specification for TaxJar's SmartCalcs Sales Tax API
+OpenAPI specification for the TaxJar Sales Tax API
